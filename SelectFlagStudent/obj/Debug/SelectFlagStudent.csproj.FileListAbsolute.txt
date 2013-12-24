@@ -1,0 +1,8 @@
+D:\GitHub2\PJ11\SelectFlagStudent\SelectFlagStudent\bin\Debug\SelectFlagStudent.dll
+D:\GitHub2\PJ11\SelectFlagStudent\SelectFlagStudent\bin\Debug\SelectFlagStudent.pdb
+D:\GitHub2\PJ11\SelectFlagStudent\SelectFlagStudent\obj\Debug\SelectFlagStudent.csprojResolveAssemblyReference.cache
+D:\GitHub2\PJ11\SelectFlagStudent\SelectFlagStudent\obj\Debug\SelectFlagStudent.Properties.Resources.resources
+D:\GitHub2\PJ11\SelectFlagStudent\SelectFlagStudent\obj\Debug\SelectFlagStudent.csproj.GenerateResource.Cache
+D:\GitHub2\PJ11\SelectFlagStudent\SelectFlagStudent\obj\Debug\SelectFlagStudent.dll
+D:\GitHub2\PJ11\SelectFlagStudent\SelectFlagStudent\obj\Debug\SelectFlagStudent.pdb
+D:\GitHub2\PJ11\SelectFlagStudent\SelectFlagStudent\obj\Debug\SelectFlagStudent.MainForm.resources
