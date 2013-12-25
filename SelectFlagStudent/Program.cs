@@ -15,8 +15,8 @@ namespace SelectFlagStudent
             FISCA.Presentation.RibbonBarItem item1 = FISCA.Presentation.MotherForm.RibbonBarItems["學務作業", "資料統計"];
             item1["報表"].Image = Properties.Resources.Report;
             item1["報表"].Size = FISCA.Presentation.RibbonBarButton.MenuButtonSize.Large;
-            item1["報表"]["留查紀錄清單"].Enable = Permissions.留查紀錄清單權限;
-            item1["報表"]["留查紀錄清單"].Click += delegate
+            item1["報表"]["留察紀錄清單"].Enable = Permissions.留察紀錄清單權限;
+            item1["報表"]["留察紀錄清單"].Click += delegate
             {
                 MainForm f = new MainForm();
                 f.ShowDialog();
@@ -24,7 +24,7 @@ namespace SelectFlagStudent
 
             //權限設定
             Catalog permission = RoleAclSource.Instance["學務作業"]["資料統計"];
-            permission.Add(new RibbonFeature(Permissions.留查紀錄清單, "留查紀錄清單"));
+            permission.Add(new RibbonFeature(Permissions.留察紀錄清單, "留察紀錄清單"));
         }
     }
 }
